@@ -9,12 +9,12 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Alphabet Soup</title>
   <link rel="stylesheet" type="text/css" href="css/style.css"  media="all">
-  <link rel="stylesheet" href="bootstrap.min.css" >
+  <link rel="stylesheet" href="bootstrap/bootstrap.min.css" >
   <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
   <link rel="stylesheet" type="text/css" href="css/jquery.tagit.css">
   <script type="text/javascript" src="js/jquery.min.js"></script> 
   <script type="text/javascript" src="js/wordfind.js"></script> 
-  <script type="text/javascript" src="wordfindgame.js"></script> 
+  <script type="text/javascript" src="js/wordfindgame.js"></script> 
   <script type="text/javascript" src="bootstrap/bootstrap.min.js" ></script>
   <script type="text/javascript" src="js/jquery-ui.min.js"></script>
   <script type="text/javascript" src="js/tag-it.js"></script>
